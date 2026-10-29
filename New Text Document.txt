@@ -1,0 +1,8 @@
+mongodb
+naglaafatthy721_db_user
+F88x8Az4amDfjcN1
+
+
+
+
+mongodb+srv://naglaafatthy721_db_user:F88x8Az4amDfjcN1@cluster0.5z8flei.mongodb.net/
